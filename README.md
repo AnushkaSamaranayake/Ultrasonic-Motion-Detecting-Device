@@ -8,7 +8,7 @@ The Ultrasonic Motion Detecting Device is a security solution designed to detect
 - **Motion Detection:** Utilizes 3 HC-SR04 sensors, each placed at a 45-degree angle to cover a large area
 - **Portability:** Compact and portable, can be placed near any door
 - **Microcontroller:** Atmega328p, programmed using Arduino IDE
-- **Smartphone Control:** Bluetooth communication for remote control and monitoring
+- **Smartphone Control:** Bluetooth communication using HC-05 for remote control and monitoring
 
 ## Approach
 1. **Project Proposal:** Identified a need for enhanced security solutions, researched similar projects, and engaged stakeholders.
