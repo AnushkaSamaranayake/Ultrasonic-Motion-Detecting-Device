@@ -1,7 +1,10 @@
 # Ultrasonic Motion Detecting Device
 
 ## Overview
-The Ultrasonic Motion Detecting Device is a security solution designed to detect unauthorized entries using ultrasonic waveforms. With high accuracy in motion detection, this device can be controlled via a smartphone using Bluetooth communication, making it an effective and convenient addition to any security system.
+The Ultrasonic Motion Detecting Device is a security solution designed to detect unauthorized entries using ultrasonic waveforms. With high accuracy in motion detection, this device can be controlled via a smartphone
+ using Bluetooth communication, making it an effective and convenient addition to any security system.
+
+![EDP photos](https://github.com/user-attachments/assets/c6b019c3-f957-475d-8c75-c555cc5aa82a)
 
 ## Specifications
 - **Power Supply:** 7.5V rechargeable batteries
@@ -24,3 +27,4 @@ To start using your Ultrasonic Motion Detecting Device:
 2. Power the device using the 7.5V rechargeable batteries.
 3. Pair the device with your smartphone via Bluetooth.
 4. Monitor and control the device remotely using the associated app or interface.
+
